@@ -1,0 +1,19 @@
+{
+  "name": "iw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx snowpack dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.3.0"
+  },
+  "dependencies": {
+    "lit": "^2.0.0-rc.2",
+    "page": "^1.11.6"
+  }
+}
